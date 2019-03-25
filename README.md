@@ -9,9 +9,9 @@ The code is not wholly efficient as in the early stages of development I rushed 
 
 
 CONTROLS:
-Up Arrow = Hard Drop
-Down Arrow = Soft Drop
-Left Arrow = Move Piece Left
+Up Arrow = Hard Drop                                                        
+Down Arrow = Soft Drop                                                      
+Left Arrow = Move Piece Left                                                   
 Right Arrow = Move Piece Right
 X = Rotate Piece Right
 Z = Rotate Piece Left
