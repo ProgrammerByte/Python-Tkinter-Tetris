@@ -12,7 +12,7 @@ CONTROLS:
 Up Arrow = Hard Drop                                                        
 Down Arrow = Soft Drop                                                      
 Left Arrow = Move Piece Left                                                   
-Right Arrow = Move Piece Right
+Right Arrow = Move Piece Right                                                      
 X = Rotate Piece Right                           
 Z = Rotate Piece Left                                                       
 C = Hold Piece                                                         
