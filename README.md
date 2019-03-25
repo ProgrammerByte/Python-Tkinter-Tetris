@@ -8,11 +8,11 @@ The Tetris(Finished).py file is the final product of this project and I have des
 The code is not wholly efficient as in the early stages of development I rushed certain parts with little planning resulting in the rotation system moving the origin after the rest of the shape (which was arguably the biggest challenge in this whole project), however since this would be rather difficult to change at this point and it doesn't impact the game's performance I don't believe that it's too important to fix.
 
 
-CONTROLS:
+CONTROLS:                                                            
 Up Arrow = Hard Drop                                                        
 Down Arrow = Soft Drop                                                      
 Left Arrow = Move Piece Left                                                   
 Right Arrow = Move Piece Right
-X = Rotate Piece Right
-Z = Rotate Piece Left
-C = Hold Piece
+X = Rotate Piece Right                           
+Z = Rotate Piece Left                                                       
+C = Hold Piece                                                         
